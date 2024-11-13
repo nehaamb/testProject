@@ -1,0 +1,9 @@
+{
+  "authorisedList": [
+    {
+      "project": "nehaamb",
+      "name": "git-proxy",
+      "url": "https://github.com/nehaamb/git-proxy.git"
+    }
+  ]
+}
